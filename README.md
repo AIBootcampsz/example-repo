@@ -18,6 +18,7 @@ The program adds the three whole-number times together and uses the total to det
 For example, 30 + 45 + 25 = 100, which results in Provincial colours.
 
 AWARD CRITERIA:
+
 Total time            | Award 
 
 111 minutes or more   | No award
